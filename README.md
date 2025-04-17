@@ -4,7 +4,9 @@
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.68+-blueviolet.svg)](https://fastapi.tiangolo.com/)
 
-**Backademia** is a REST API designed to simplify scraping data from SRM Academia. It provides an easy-to-use abstraction, allowing developers to retrieve information with simple API calls.
+**Backademia** is a REST API designed to simplify scraping data from SRM Academia. It provides an easy-to-use abstraction, allowing developers to retrieve information with simple API calls.\
+\
+I plan on adding more endpoints to the API soon. Contributions are welcome.
 
 ## Features (Work In Progress)
 
@@ -59,4 +61,4 @@
       "password": "your_srm_password"
     }
     ```
-I plan on adding more endpoints to the API soon. Contributions are welcome.
+
