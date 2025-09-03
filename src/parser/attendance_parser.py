@@ -131,10 +131,10 @@ def parse_attendance_data(data):
                 "Theory/Lab": theory_lab, 
                 "Faculty": faculty,
                 "Section": section,
-                "Registered": registered,
-                "Absent": absent,
-                "Percentage": percentage,
-                "Misc": misc
+                "Classroom": registered,
+                "Total hours": absent,
+                "Absent": percentage,
+                "Attendance Percentage": misc
             }
             parsed_data.append(data_row)
 
